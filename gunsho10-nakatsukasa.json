@@ -1,10 +1,15 @@
 {
- "work": "中務集",
+ "work": "中務集（群書類従本）",
  "work_id": "gunsho10-nakatsukasa",
  "repo": "kumoi-no-fumigura/nakatsukasa",
  "yomi": "なかつかさしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期",
+  "author": "中務",
+  "desc": "伊勢の娘で三十六歌仙の一人中務の家集。子日・藤・時鳥など月々の絵に添えた屏風歌を冒頭に置き、粟田の右大殿らとの贈答を収める。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -2901,6 +2906,6 @@
   "poems": 254,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
