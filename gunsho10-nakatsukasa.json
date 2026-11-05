@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 6,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "gunsho10-nakatsukasa-0001",
@@ -3372,6 +3375,7 @@
   "poems": 254,
   "editions": 1,
   "updated": "2026-11-05",
-  "updated_at": "2026-11-05T06:22:40+09:00"
+  "updated_at": "2026-11-05T06:22:40+09:00",
+  "yaku": 6
  }
 }
